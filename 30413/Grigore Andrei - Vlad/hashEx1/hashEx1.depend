@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585759191 source:c:\users\aa\desktop\faculta stuff\hashex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
