@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587736008 source:c:\users\aa\desktop\problem20\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1590006151 source:c:\users\aa\desktop\faculta stuff\interpolationsearch\main.c
+	<stdio.h>
+	<stdlib.h>
+
