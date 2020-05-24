@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586973170 source:c:\users\aa\desktop\graphslab7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1586973170 source:c:\users\aa\desktop\faculta stuff\graphslab7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
